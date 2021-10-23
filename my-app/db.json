@@ -1,0 +1,141 @@
+{
+  "registers": [
+    {
+      "name": "DIY",
+      "hostel": "DIY is the best",
+      "room": "",
+      "branch": 1,
+      "mail": "123@mnit.ac.in",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "name": "Khushi Kumari",
+      "hostel": "maitri",
+      "room": "9",
+      "branch": "cs",
+      "mail": "2020ucp1982@mnit.ac.in",
+      "pass": "kkgsr",
+      "id": 2
+    },
+    {
+      "name": "",
+      "hostel": "",
+      "room": "",
+      "branch": "",
+      "mail": "",
+      "pass": "",
+      "id": 3
+    },
+    {
+      "name": "Khushi Kumari",
+      "hostel": "maitri",
+      "room": "3",
+      "branch": "cs",
+      "mail": "2020ucp1982@mnit.ac.in",
+      "pass": "kkgsr",
+      "pass2": "kkgs",
+      "id": 4
+    },
+    {
+      "name": "Khushi Kumari",
+      "hostel": "maitri",
+      "room": "3",
+      "branch": "cs",
+      "mail": "2020ucp1982@mnit.ac.in",
+      "pass": "kkgsr",
+      "pass2": "kkgs",
+      "id": 5
+    },
+    {
+      "name": "Khushi Kumari",
+      "hostel": "maitri",
+      "room": "3",
+      "branch": "cs",
+      "mail": "2020ucp1982@mnit.ac.in",
+      "pass": "kkgsr",
+      "pass2": "kkgs",
+      "id": 6
+    },
+    {
+      "name": "Khushi Kumari",
+      "hostel": "maitri",
+      "room": "3",
+      "branch": "cs",
+      "mail": "2020ucp1982@mnit.ac.in",
+      "pass": "kkgsr",
+      "pass2": "kkgs",
+      "id": 7
+    },
+    {
+      "name": "Khushi Kumari",
+      "hostel": "maitri",
+      "room": "3",
+      "branch": "cs",
+      "mail": "2020ucp1982@mnit.ac.in",
+      "pass": "kkgsr",
+      "pass2": "kkgsr",
+      "id": 8
+    },
+    {
+      "name": "Khushi Kumari",
+      "hostel": "maitri",
+      "room": "3",
+      "branch": "cs",
+      "mail": "2020ucp1982@mnit.ac.in",
+      "pass": "kkgsr",
+      "pass2": "kkgsr",
+      "id": 9
+    },
+    {
+      "name": "Khushi Kumari",
+      "hostel": "maitri",
+      "room": "9",
+      "branch": "cs",
+      "mail": "2020ucp1982@mnit.ac.in",
+      "pass": "kkgsr",
+      "pass2": "kkgsr",
+      "id": 10
+    },
+    {
+      "name": "Khushi Kumari",
+      "hostel": "maitri",
+      "room": "4",
+      "branch": "cs",
+      "mail": "2020ucp1982@mnit.ac.in",
+      "pass": "kkgsr",
+      "pass2": "kkgs",
+      "id": 11
+    },
+    {
+      "name": "Khushi Kumari",
+      "hostel": "maitri",
+      "room": "9",
+      "branch": "cs",
+      "mail": "2020ucp1982@mnit.ac.in",
+      "pass": "pk",
+      "pass2": "p",
+      "id": 12
+    },
+    {
+      "name": "Khushi Kumari",
+      "hostel": "maitri",
+      "room": "9",
+      "branch": "cs",
+      "mail": "2020ucp1982@mnit.ac.in",
+      "pass": "pk",
+      "pass2": "p",
+      "id": 13
+    },
+    {
+      "name": "Khushi Kumari",
+      "hostel": "maitri",
+      "room": "9",
+      "branch": "cs",
+      "mail": "2020ucp1982@mnit.ac.in",
+      "pass": "pk",
+      "pass2": "p",
+      "id": 14
+    }
+  ]
+}
